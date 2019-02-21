@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.iml" filepath="$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.alpha.mvc-unit-testing.test.iml" />
+    </modules>
+  </component>
+</project>
